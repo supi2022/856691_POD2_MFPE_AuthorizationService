@@ -1,0 +1,167 @@
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.exe
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csprojAssemblyReference.cache
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfoInputs.cache
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfo.cs
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.RazorTargetAssemblyInfo.cache
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.Manifest.cache
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.xml
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.deps.json
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.json
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.dev.json
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CoreCompileInputs.cache
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CopyComplete
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.exe
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.deps.json
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.json
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.dev.json
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csprojAssemblyReference.cache
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfoInputs.cache
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfo.cs
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.RazorTargetAssemblyInfo.cache
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CopyComplete
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.Manifest.cache
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.xml
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CoreCompileInputs.cache
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.exe
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.deps.json
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.json
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.dev.json
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csprojAssemblyReference.cache
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CoreCompileInputs.cache
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfoInputs.cache
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfo.cs
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.RazorTargetAssemblyInfo.cache
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CopyComplete
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.Manifest.cache
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.xml
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\Sujoy Basak\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.exe
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.deps.json
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.json
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.dev.json
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csprojAssemblyReference.cache
+C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfoInputs.cache
+C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfo.cs
+C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CoreCompileInputs.cache
+C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.RazorTargetAssemblyInfo.cache
+C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CopyComplete
+C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.Manifest.cache
+C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.xml
+C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
