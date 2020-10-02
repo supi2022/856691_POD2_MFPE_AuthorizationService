@@ -165,3 +165,4 @@ C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\s
 C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.dll
 C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
 C:\Users\supri\source\repos\Cloud\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
+C:\Users\supri\source\repos\Cloud\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationServiceyaml.yaml
